@@ -1,0 +1,48 @@
+C:\ТП\WpfApp1\bin\Debug\Модели\Меню.cs
+C:\ТП\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\ТП\WpfApp1\bin\Debug\WpfApp1.exe
+C:\ТП\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\ТП\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\ТП\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\ТП\WpfApp1\obj\Debug\App.g.cs
+C:\ТП\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\ТП\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\ТП\WpfApp1\obj\Debug\MainWindow.baml
+C:\ТП\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\ТП\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\ТП\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\ТП\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\ТП\WpfApp1\obj\Debug\WpfApp1.exe
+C:\ТП\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\bin\Debug\Модели\Меню.cs
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Максим\Desktop\Risenr31-lab1-3ee421bc6bd1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\bin\Debug\Модели\Меню.cs
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Максим\Desktop\Лаба 1 - Ресторан Джон Серебряков\WpfApp1\obj\Debug\WpfApp1.pdb

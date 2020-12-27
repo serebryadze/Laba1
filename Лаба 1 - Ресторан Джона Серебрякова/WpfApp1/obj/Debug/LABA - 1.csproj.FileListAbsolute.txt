@@ -1,0 +1,16 @@
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\bin\Debug\Модели\Меню.cs
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\LABA - 1.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\LABA - 1.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\LABA - 1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Максим\Desktop\ТП 2год\Лаба 1 - Ресторан Джона Серебрякова\WpfApp1\obj\Debug\WpfApp1.pdb
